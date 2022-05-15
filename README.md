@@ -1,5 +1,6 @@
-# webinarsmaterial
-En este repositorio encontrarás el material presentado en nuestros Webinar's, tanto las presentaciones como los códigos revisados en python. Para enterarte sobre las fechas y temas de próximos webinar's puedes visitar nuestras redes.
+# Taller Deep Learning CONIIN 2022
+
+En este repositorio encontrarás el material presentado en el taller impartido en el CONIIN 2022, tanto las presentaciones como los códigos revisados en python. Para enterarte sobre las fechas y temas de próximos webinar's puedes visitar nuestras redes.
 
 📌Material completamente gratuito que compartimos con la comunidad interesada en aprender sobre Inteligencia Artificial
 
